@@ -1,0 +1,15 @@
+D:\Double Linked List\Q7\Q7\bin\Debug\net6.0\Q7.exe
+D:\Double Linked List\Q7\Q7\bin\Debug\net6.0\Q7.deps.json
+D:\Double Linked List\Q7\Q7\bin\Debug\net6.0\Q7.runtimeconfig.json
+D:\Double Linked List\Q7\Q7\bin\Debug\net6.0\Q7.dll
+D:\Double Linked List\Q7\Q7\bin\Debug\net6.0\Q7.pdb
+D:\Double Linked List\Q7\Q7\obj\Debug\net6.0\Q7.csproj.AssemblyReference.cache
+D:\Double Linked List\Q7\Q7\obj\Debug\net6.0\Q7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Double Linked List\Q7\Q7\obj\Debug\net6.0\Q7.AssemblyInfoInputs.cache
+D:\Double Linked List\Q7\Q7\obj\Debug\net6.0\Q7.AssemblyInfo.cs
+D:\Double Linked List\Q7\Q7\obj\Debug\net6.0\Q7.csproj.CoreCompileInputs.cache
+D:\Double Linked List\Q7\Q7\obj\Debug\net6.0\Q7.dll
+D:\Double Linked List\Q7\Q7\obj\Debug\net6.0\refint\Q7.dll
+D:\Double Linked List\Q7\Q7\obj\Debug\net6.0\Q7.pdb
+D:\Double Linked List\Q7\Q7\obj\Debug\net6.0\Q7.genruntimeconfig.cache
+D:\Double Linked List\Q7\Q7\obj\Debug\net6.0\ref\Q7.dll
